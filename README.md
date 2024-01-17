@@ -7,8 +7,8 @@ The Image Preprocessing Process is Displayed Below:
 
 <img width="455" alt="Screenshot 2024-01-17 at 3 55 47 PM" src="https://github.com/MathewZheng/Archived-Newspaper-OCR-Processing-Analysis---Michigan-Daily/assets/53542045/4492a055-4333-4b07-9e54-d0c178910774">
 
-![index_dilate](https://github.com/MathewZheng/Archived-Newspaper-OCR-Processing-Analysis---Michigan-Daily/assets/53542045/f3dec732-94e4-48ac-852e-7a4464de3d03)
+<img width="451" alt="Screenshot 2024-01-17 at 3 58 05 PM" src="https://github.com/MathewZheng/Archived-Newspaper-OCR-Processing-Analysis---Michigan-Daily/assets/53542045/5b588fd4-0ea9-45cf-86ee-03e31c5b5881">
 
-![index_thresh](https://github.com/MathewZheng/Archived-Newspaper-OCR-Processing-Analysis---Michigan-Daily/assets/53542045/62542241-2962-4778-9d63-8f234289e80c)
+<img width="451" alt="Screenshot 2024-01-17 at 3 58 27 PM" src="https://github.com/MathewZheng/Archived-Newspaper-OCR-Processing-Analysis---Michigan-Daily/assets/53542045/84a3675d-cea3-4385-b640-2598f81fc5c4">
 
 <img width="492" alt="Screenshot 2024-01-17 at 3 56 34 PM" src="https://github.com/MathewZheng/Archived-Newspaper-OCR-Processing-Analysis---Michigan-Daily/assets/53542045/cae5f1a9-1df5-40f7-96d8-c8e92028d2f2">
