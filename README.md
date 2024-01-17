@@ -1,7 +1,7 @@
 # Newspaper-OCR-Project
 Welcome to my project! I worked on this to be applied to the Michigan Daily, to be used to reformat old newspapers in the archives into the more modern format we use for online media. To accomplish this, I used Pytesseract, as well as OpenCV and Pillow for preprocessing the images of the archived newspapers and to morph it to make it more readable for the OCR algorithm. 
 
-## Image-Preprocessing
+## Image Preprocessing
 The first step to completing this project was to preprocess and morph the images using OpenCV and Pillow to make it more readable for the OCR algorithm, Newspapers are messy, especially old ones, and are filled with random noise such as black bars that would largely affect the efficiency and accuracy of Pytessesract. To counteract this, I used OpenCV to morph the images into a way that the computer could detect white contours to draw bounding boxes around blocks of text in each individual newspaper. This way, only the text would be read in at first, seperate from all the margins, titles, and everything else. This will be tuned more and used in the future to extract the headline and first paragraph from each paper to display with a "Read More" option on the main website.
 
 The Image Preprocessing Process is Displayed Below:
